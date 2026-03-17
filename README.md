@@ -68,3 +68,4 @@ python3 snake.py
 ---
 
 ⭐ Star this repo if you enjoy the game!
+# Update
